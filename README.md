@@ -1,5 +1,5 @@
 # DatabricksCatalog
-## Other Solution Proposal is to adopt Medallion Architecture that has been implemented with minimal sample in other repo: 
+## Other Solution Proposal is to adopt Medallion Architecture that has been implemented with minimal sample: 
 Medallion Architecture with Databricks and ADLS for Large-Scale Projects.
 
 For larger projects requiring scalable, robust, and maintainable data pipelines, the Medallion (Bronze-Silver-Gold) architecture is recommended, leveraging Databricks and Azure Data Lake Storage (ADLS) or AWS S3 bucket:
